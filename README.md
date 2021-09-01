@@ -9,6 +9,8 @@ Includes followings methods:
 6) Display number of black nodes;
 7) Rotation methods (right rotation, left rotation, left-right rotation, right-left rotation);
 
+Also you may want to see a small wiki about this realisation: https://github.com/BazNick/Red-Black-Tree/wiki
+
 # Красно-Черное-Дерево
 Реализация Красно-Черного Дерева на Python.
 Включает следующие методы:
@@ -19,3 +21,6 @@ Includes followings methods:
 5) Display height of the tree (Выводит высоту дерева);
 6) Display number of black nodes (Выводит количество черных узлов);
 7) Rotation methods (right rotation, left rotation, left-right rotation, right-left rotation) (Методы вращения: левое, правое, лево-правое и право-левое);
+
+
+Также можно посмотреть небольшое вики по реализации: https://github.com/BazNick/Red-Black-Tree/wiki
